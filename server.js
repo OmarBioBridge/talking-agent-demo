@@ -20,7 +20,7 @@ const contentTypes = {
 
 function safeFilePath(requestUrl) {
   const parsedUrl = new URL(requestUrl, "http://localhost");
-  const requestedPath = parsedUrl.pathname === "/" ? "/output/talking-agent-demo.html" : parsedUrl.pathname;
+  const requestedPath = parsedUrl.pathname === "/" ? "/index.html" : parsedUrl.pathname;
   const filePath = path.normalize(path.join(publicDir, decodeURIComponent(requestedPath)));
 
   if (!filePath.startsWith(publicDir)) {

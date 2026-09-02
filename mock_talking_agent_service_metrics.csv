@@ -1,0 +1,19 @@
+Month,Department,Requests,Completed,OpenBacklog,AverageDays,Escalations,SatisfactionScore,Notes
+January,Intake,128,119,9,4.2,9,87,New request volume started steady after holiday period.
+January,Fulfillment,96,91,5,3.7,4,90,Most work completed inside expected service window.
+January,Support,74,69,5,2.8,3,92,Common questions centered on status updates.
+February,Intake,141,136,5,3.8,7,89,Faster review reduced open items by month end.
+February,Fulfillment,105,101,4,3.4,5,91,Completion rate improved with fewer rework cases.
+February,Support,81,78,3,2.5,2,93,Support handled more requests with shorter response times.
+March,Intake,156,148,8,3.5,6,90,Volume increased but average handling time improved.
+March,Fulfillment,118,112,6,3.2,4,92,Team absorbed growth without major backlog movement.
+March,Support,88,85,3,2.3,2,94,Customer sentiment remained strong.
+April,Intake,173,166,7,3.1,5,91,Process changes helped reduce cycle time.
+April,Fulfillment,130,125,5,2.9,3,93,Fewer escalations after checklist updates.
+April,Support,95,92,3,2.1,1,95,Most issues resolved during first contact.
+May,Intake,188,181,7,2.9,4,92,Demand continued to rise while speed improved.
+May,Fulfillment,142,138,4,2.7,3,94,Completion rate was strongest in the period.
+May,Support,103,100,3,2.0,1,96,Support maintained low backlog and high satisfaction.
+June,Intake,201,194,7,2.8,4,93,Higher volume did not increase backlog.
+June,Fulfillment,151,146,5,2.6,2,95,Escalations dropped as process stability improved.
+June,Support,110,108,2,1.9,1,96,Fastest support month in the sample.

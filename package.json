@@ -1,0 +1,13 @@
+{
+  "name": "csv-merge-to-excel-app",
+  "version": "1.0.0",
+  "description": "Browser-based CSV merge tool that exports an Excel workbook.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
